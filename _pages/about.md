@@ -14,13 +14,13 @@ redirect_from:
 
 i-MemTec Lab Mission:
 ======
-The Innovation in Membrane Technology for Circular Economy (i-MemTec) Lab aims to pioneer advanced membrane technology for a circular economy of nutrients, energy, and water (NEW) resources.
+The Innovation in Membrane Technology for Circular Economy (i-MemTec) Lab aims to pioneer advanced membrane technology for a circular economy of nutrients, energy, and water ("NEW") resources.
 
 Ongoing Research Efforts:
 ======
-1. Design and fabrication of functional membrane materials, and mechanistic understanding of membrane formation and transport phenomena.
-2. Development and optimization of membrane processes for water purification, emerging contamination treatment, and resource recovery.
-3. Circularity in desalination membrane materials.
+1. Designing functional membrane materials and unraveling transport mechanisms.
+2. Optimizing membrane processes for water purification, emerging contamination treatment, and resource recovery.
+3. Fostering circularity in desalination membrane materials.
 
 We are hiring new Ph.D. students and Postdocs!
 ======
