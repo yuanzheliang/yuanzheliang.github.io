@@ -24,7 +24,7 @@ Ongoing Research Efforts:
 
 We are hiring new Ph.D. students and Postdocs!
 ======
-Prospective students are encouraged to send the following materials as a single PDF file with the email subject “PhD/Postdoc application – Your name” to Dr. Yuanzhe Liang at yuanzhe.liang@oregonstate.edu:
+Prospective students are encouraged to send the following materials as a single PDF file with the email subject “PhD/Postdoc application – Your name” to Prof. Liang at yuanzhe.liang@oregonstate.edu:
 1.	A cover letter describing your background, relevant experience, and future career plan. (1 page)
 2.	C.V.
 3.	Copies of transcripts (unofficial)
