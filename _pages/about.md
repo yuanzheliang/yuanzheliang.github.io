@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='/images/FrontBack.png'>
+<br/><img src='/images/Firstpage.png'>
 
 
 
