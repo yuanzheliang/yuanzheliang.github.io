@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 <br/><img src='/images/FrontBack.png'>
----
+
 
 
 A data-driven personal website
