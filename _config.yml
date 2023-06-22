@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "RealYuanzhe"
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "Assistant Professor"
   location         : "School of CBEE"
   employer         : "Oregon State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Yuanzhe+Liang"
   googlescholar    : "https://scholar.google.com/citations?user=fhd2cL4AAAAJ&hl=en&oi=ao"
   email            : "yuanzhe.liang@oregonstate.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Yuanzhe-Liang"
+  researchgate     : "https://www.researchgate.net/profile/Yuanzhe-Liang"
   uri              :
   bitbucket        :
   codepen          :
