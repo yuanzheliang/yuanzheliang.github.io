@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Innovation in Membrane Technology for Circular Economy Lab"
+title: "i-MemTec Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
----
+Innovation in Membrane Techology for Circular Economy Lab
+======
 <br/><img src='/images/FrontBack.png'>
 
 
