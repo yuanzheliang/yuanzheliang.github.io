@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Innovation in Membrane Techology for Circular Economy Lab
 ======
 <br/><img src='/images/FrontBack.png'>
 
