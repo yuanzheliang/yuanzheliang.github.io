@@ -2,7 +2,7 @@
 title: "Fabrication and evaluation of electrospun PCL–gelatin micro-/nanofiber membranes for anti-infective GTR implants"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2014-06-21
 venue: 'Journal of Materials Chemistry B'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2014/tb/c4tb00737a/unauth'
