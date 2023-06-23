@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Xue J, He M, Liang Y, Crawford A, Coates P, Chen D, Shi R, Zhang L. Fabrication and evaluation of electrospun PCL–gelatin micro-/nanofiber membranes for anti-infective GTR implants. Journal of Materials Chemistry B. 2014;2(39):6867-77.
