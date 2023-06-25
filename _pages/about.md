@@ -17,12 +17,6 @@ redirect_from:
 ======
 The *innovation* in Membrane Technology for Circular Economy (*i*-MemTec) Lab aims to pioneer advanced membrane technology for a circular economy of nutrients, energy, and water ("NEW") resources.
 
-Ongoing Research Efforts:
-======
-1. Designing functional membrane materials and unraveling transport mechanisms.
-2. Optimizing membrane processes for water purification, emerging contamination treatment, and resource recovery.
-3. Fostering circularity in desalination membrane materials.
-
 We are hiring new Ph.D. students and Postdocs!
 ======
 Prospective students are encouraged to send the following materials as a single PDF file with the email subject “PhD/Postdoc application – Your name” to Prof. Liang at yuanzhe.liang@oregonstate.edu:
