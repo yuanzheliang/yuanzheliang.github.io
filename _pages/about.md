@@ -10,9 +10,10 @@ redirect_from:
 
 <br/><img src='/images/Firstpage_des.png'>
 
+<br>
+<br>
 
-
-i-MemTec Lab Mission:
+*i*-MemTec Lab Mission:
 ======
 The Innovation in Membrane Technology for Circular Economy (i-MemTec) Lab aims to pioneer advanced membrane technology for a circular economy of nutrients, energy, and water ("NEW") resources.
 
