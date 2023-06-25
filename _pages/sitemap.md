@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "*i*-MemTec Lab"
 permalink: /sitemap/
 author_profile: true
 ---
