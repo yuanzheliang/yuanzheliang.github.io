@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* Assistant Professor, School of Chemical, Biological and Environmental Engineering, Oregon State University
 * Postdoctoral Research Associate, National Renewable Energy Laboratory, 2023
 * Postdoctoral Research Associate, Stanford University, 2022
 
