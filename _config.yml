@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang's i-MemTec Lab"
+title                    : "<p style="font-family: Arial, sans-serif;">i-MemTec Lab</p>"
 title_separator          : "-"
 name                     : &name "Yuanzhe Liang"
 description              : &description "Innovation in Membrane Technology for Circular Economy"
