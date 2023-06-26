@@ -25,7 +25,7 @@ We specialize in combining molecular engineering, process modeling and data scie
 
 We recruit lab members that embody diversity, self-motivation, a sense of adventure, persistence, enthusiasm, collaboration, supportiveness, and a love for fun. Each member is valued, and we are committed to nurturing their growth by designing Individual Development Plans (IDPs). IDPs serve as roadmaps to explore and define their training goals, professional development needs, and career objectives. We provide mentoring, guidance, and resources, in both scientific and career development, to support their goals.
 
-We encourage internal and external collaborations with intellectually diverse scholars and increase the impact of our research achievement.
+We encourage internal and external collaborations with intellectually diverse scholars and enhance the impact of our research accomplishments.
 
 We are hiring new Ph.D. students and Postdocs!
 ======
