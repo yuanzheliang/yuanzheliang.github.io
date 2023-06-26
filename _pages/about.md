@@ -19,4 +19,4 @@ The *innovation* in Membrane Technology for Circular Economy (*i*-MemTec) Lab ai
 
 We are hiring new Ph.D. students and Postdocs!
 ======
- <a href="https://yuanzheliang.github.io/markdown/"> Learn more </a>
+ <a href="https://yuanzheliang.github.io/openings/"> Learn more </a>
