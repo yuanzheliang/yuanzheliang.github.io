@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Yuanzhe Liang"
-permalink: /cv/
+permalink: /PI/
 author_profile: true
 redirect_from:
   - /resume
