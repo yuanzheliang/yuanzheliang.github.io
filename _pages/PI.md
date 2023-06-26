@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Yuanzhe Liang <br> Education <br> * B.S. in Polymer Science and Engineering, Beijing University of Chemical Technology, 2015 <br> * M.S. in Macromolecular Science and Engineering, Case Western Reserve University, 2016 <br> * Ph.D in Interdisciplinary Material Science and Environmental Engineering, Vanderbilt University, 2020 <br> Work experience <br> * Assistant Professor, School of Chemical, Biological and Environmental Engineering, Oregon State University <br> * Postdoctoral Research Associate, National Renewable Energy Laboratory, 2023 <br> * Postdoctoral Research Associate, Stanford University, 2022](/images/PI_info.JPG)   <!-- Replace "Alt Text" with the alternative text for the image -->
-<!-- The image tag above displays the picture -->
+<img src='/images/PI_info.png'>
 
 Education
 ======
