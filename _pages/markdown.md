@@ -40,8 +40,8 @@ The review process will begin immediately and continue until the positions are f
 Nestled in the picturesque Pacific Northwest, Oregon State University (OSU) stands as a beacon of academic excellence, innovation, and community. Established in 1868, OSU has grown to become a renowned public “R1” institution with a strong commitment to educational advancement, cutting-edge research, and service to society. The School of Chemical, Biological, and Environmental Engineering emphasizes the integration of chemical, biological, and environmental engineering principles and practice in a student-centered learning environment to provide work-ready graduates and technical solutions for a sustainable future. Research expenditures exceed $8 million per year. Our school is an inclusive, diverse community of students, faculty, and staff who are dedicated to creating a better future. We invite you to join us.
 
 ## Contact Information
-Yuanzhe Liang, Ph.D.
-Assistant Professor
-School of Chemical, Biological and Environmental Engineering
-Oregon State University
-Email: yuanzhe.liang@oregonstate.edu
+Yuanzhe Liang, Ph.D.<br>
+Assistant Professor<br>
+School of Chemical, Biological and Environmental Engineering<br>
+Oregon State University<br>
+Email: yuanzhe.liang@oregonstate.edu<br>
