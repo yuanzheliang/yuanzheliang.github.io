@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Alt Text](images/PI_info.JPG)   <!-- Replace "Alt Text" with the alternative text for the image -->
+<!-- The image tag above displays the picture -->
 
 Education
 ======
