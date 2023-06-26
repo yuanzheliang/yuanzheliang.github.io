@@ -4,7 +4,7 @@ title: "Openings"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Openings.html
 ---
 
 ## Multiple Ph.D. Student and Postdoctoral Research Associate Positions in the School of Chemical, Biological and Environmental Engineering at Oregon State University
