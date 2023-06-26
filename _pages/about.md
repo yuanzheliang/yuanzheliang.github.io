@@ -27,6 +27,10 @@ We recruit lab members that embody diversity, self-motivation, a sense of advent
 
 We encourage internal and external collaborations with intellectually diverse scholars and enhance the impact of our research accomplishments.
 
+*i*-MemTec Lab Value:
+======
+At the *i*-MemTec Lab, we are proud to embrace and prioritize Diversity, Equity, and Inclusion (DEI) as fundamental values that shape our research endeavors. Our lab stands as a dynamic hub of discovery, collaboration, innovation, growth and respect, where passionate researchers come together to tackle complex challenges and make a lasting impact on society.
+
 We are seeking new Ph.D. students and Postdocs!
 ======
  <a href="https://yuanzheliang.github.io/openings/"> Learn more </a>
