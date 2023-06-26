@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "*i*-MemTec Lab"
-permalink: /sitemap/
+permalink: /about/
 author_profile: true
 ---
 
