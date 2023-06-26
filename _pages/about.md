@@ -27,6 +27,6 @@ We recruit lab members that embody diversity, self-motivation, a sense of advent
 
 We encourage internal and external collaborations with intellectually diverse scholars and enhance the impact of our research accomplishments.
 
-We are hiring new Ph.D. students and Postdocs!
+We are seeking new Ph.D. students and Postdocs!
 ======
  <a href="https://yuanzheliang.github.io/openings/"> Learn more </a>
