@@ -19,7 +19,7 @@ Prospective students are encouraged to send the following materials as a single 
 2.	C.V.
 3.	Copies of transcripts (unofficial)
 4.	Scientific writing samples if any (e.g., first-author papers)
-5.	Three suggested references including their emails.
+5.	Three suggested references including their emails.<br>
 The review process will begin immediately and continue until the positions are filled.
 
 ## Candidate Qualification
