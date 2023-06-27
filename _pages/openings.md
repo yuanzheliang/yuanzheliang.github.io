@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Multiple Ph.D. Student and Postdoctoral Research Associate Positions in the School of Chemical, Biological and Environmental Engineering at Oregon State University
+## Multiple Ph.D. Student and Postdoctoral Research Associate Opportunities in the School of Chemical, Biological and Environmental Engineering at Oregon State University
 
 ## Position Description
 
