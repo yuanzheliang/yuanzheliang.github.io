@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yuanzhe Liang"
+title: "Principal Investigator"
 permalink: /PI/
 author_profile: true
 redirect_from:
