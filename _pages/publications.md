@@ -7,7 +7,7 @@ author_profile: true
 
 ## Paper
 * **Liang Y**, Dudchenko AV, Mauter MS. Novel method for accurately estimating membrane transport properties and mass transfer coefficients in reverse osmosis. *Journal of Membrane Science*. 2023 Aug 5;679:121686.
-  <a href="https://doi.org/10.1016/j.memsci.2023.121686"> https://doi.org/10.1016/j.memsci.2023.121686 </a> | [PDF](https://yuanzheliang.github.io/files/acsami2023.pdf)
+  <a href="https://doi.org/10.1016/j.memsci.2023.121686"> https://doi.org/10.1016/j.memsci.2023.121686 </a> | [PDF](https://yuanzheliang.github.io/files/jms2023.pdf)
 * **Liang Y#**, Knauer KM. Trends and future outlooks in circularity of desalination membrane materials. *Frontiers in Membrane Science and Technology*. 2023 Apr 6;2:1169158.
   <a href="https://www.frontiersin.org/articles/10.3389/frmst.2023.1169158/full"> https://doi.org/10.3389/frmst.2023.1169158 </a> | [PDF](https://yuanzheliang.github.io/files/frmst2023.pdf)
 * Qin J, Ziemann E, Bar-Zeev E, Bone SE, **Liang Y**, Mauter MS, Herzberg M, Bernstein R. Microporous Polyethersulfone Membranes Grafted with Zwitterionic Polymer Brushes Showing Microfiltration Permeance and Ultrafiltration Bacteriophage Removal. *ACS applied materials & interfaces*. 2023 Apr 3;15(14):18343-53.
