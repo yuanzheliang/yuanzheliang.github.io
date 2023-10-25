@@ -19,4 +19,4 @@ The immense potential of future membrane technologies filled me with excitement 
 
 If you’re interested in learning more, please feel free to reach out to us via email at: yuanzhe.liang@oregonstate.edu.
 
-[CV Updated October 2023](https://yuanzheliang.github.io/files/[CV]_Yuanzhe Liang_1024.pdf)
+<a href="https://yuanzheliang.github.io/files/[CV]_Yuanzhe Liang_1024.pdf"> CV Updated October 2023 </a>
