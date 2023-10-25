@@ -18,3 +18,5 @@ Greetings! I'm Yuanzhe Liang (梁元喆), and I hail from Taiyuan, Shanxi Provin
 The immense potential of future membrane technologies filled me with excitement and solidified my determination to pursue a career in research and education. The *i*-MemTec Lab aims to propel membrane technology forward, catalyzing solutions for the transition towards a circular economy of nutrients, energy, and water ("NEW") resources. Simultaneously, my lab endeavors to nurture the next generation of materials scientists and environmental engineers, equipping them with the knowledge and skills to make a positive impact on society. 
 
 If you’re interested in learning more, please feel free to reach out to us via email at: yuanzhe.liang@oregonstate.edu.
+
+[CV Updated October 2023](https://yuanzheliang.github.io/files/[CV]_Yuanzhe Liang_1024.pdf)
