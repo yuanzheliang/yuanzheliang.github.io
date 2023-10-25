@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Paper
+* Knauer K, Higginson C, **Liang Y**, Lee M. Circular plastics technologies: depolymerization of polymers into parent monomers. *Physical Sciences Reviews*. 2023 Aug 24(0). 
+  <a href="https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html"> https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html </a> | [PDF](https://yuanzheliang.github.io/files/psr2023.pdf)
 * **Liang Y**, Dudchenko AV, Mauter MS. Novel method for accurately estimating membrane transport properties and mass transfer coefficients in reverse osmosis. *Journal of Membrane Science*. 2023 Aug 5;679:121686.
   <a href="https://doi.org/10.1016/j.memsci.2023.121686"> https://doi.org/10.1016/j.memsci.2023.121686 </a> | [PDF](https://yuanzheliang.github.io/files/jms2023.pdf)
 * **Liang Y#**, Knauer KM. Trends and future outlooks in circularity of desalination membrane materials. *Frontiers in Membrane Science and Technology*. 2023 Apr 6;2:1169158.
