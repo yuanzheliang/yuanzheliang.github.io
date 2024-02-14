@@ -1,16 +1,12 @@
 ---
 layout: archive
 title: "People"
-permalink: /people/
+permalink: /portfolio/
 author_profile: true
 ---
 
-<img src='/images/CE_People_edit.png'>
+{% include base_path %}
 
-<b>Coming soon!<b>
-
-<!-- {% include base_path %} -->
-
-<!-- {% for post in site.portfolio %} -->
-<!--   {% include archive-single.html %} -->
-<!-- {% endfor %} -->
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
