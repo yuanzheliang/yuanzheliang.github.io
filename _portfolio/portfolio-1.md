@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Yuxing Cui"
+excerpt: "1st year Ph.D. student<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Yuxing Cui
+Email:
+cuy@oregonstate.edu
+
+Degree:
+M.S. – Materials Science and Engineering, Lehigh University
+B.S. – Renewable Energy Materials and Device, University of Electronic Science and Technology of China
+
+Work:
+Process Engineer, Applied Materials
+
+Research Interests:
+Focus on wastewater treatments, membrane processing and fundamental researches.
+
+Hobbies:
+Soccer, Traveling, Reading, Outdoor Activities
