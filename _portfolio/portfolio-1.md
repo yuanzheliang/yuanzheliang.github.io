@@ -1,6 +1,6 @@
 ---
 title: "Yuxing Cui"
-excerpt: "1st year Ph.D. student<br/><img src='/images/YuxingCui.jpg' width='200' height='200'>"
+excerpt: "1st year Ph.D. student<br/><img src='/images/YuxingCui.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
