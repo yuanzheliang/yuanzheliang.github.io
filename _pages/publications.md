@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Paper
+## Papers
 * Knauer K, Higginson C, **Liang Y**, Lee M. Circular plastics technologies: depolymerization of polymers into parent monomers. *Physical Sciences Reviews*. 2023 Aug 24(0). 
   <a href="https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html"> https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html </a> | [PDF](https://yuanzheliang.github.io/files/psr2023.pdf)
 * **Liang Y**, Dudchenko AV, Mauter MS. Novel method for accurately estimating membrane transport properties and mass transfer coefficients in reverse osmosis. *Journal of Membrane Science*. 2023 Aug 5;679:121686.
@@ -34,3 +34,8 @@ author_profile: true
   <a href="https://doi.org/10.1021/acs.estlett.8b00430"> https://doi.org/10.1021/acs.estlett.8b00430 </a> | [PDF](https://yuanzheliang.github.io/files/estletter2018.pdf)
 * Xue J, He M, **Liang Y**, Crawford A, Coates P, Chen D, Shi R, Zhang L. Fabrication and evaluation of electrospun PCL–gelatin micro-/nanofiber membranes for anti-infective GTR implants. *Journal of Materials Chemistry B*. 2014;2(39):6867-77.
   <a href="https://doi.org/10.1039/C4TB00737A"> https://doi.org/10.1039/C4TB00737A </a> | [PDF](https://yuanzheliang.github.io/files/jmcb2014.pdf)
+
+## Patents
+* DesVeaus J, **Liang Y**, Choi H, Knauer K, Beckham G. Downstream process for separating a mixture of depolymerized polyester products produced from methanolysis. USPTO No. 63/512,804, National Renewable Energy Laboratory.
+* Beckham, G, Minjung L, Ciaran L, Cuthbertson A, Hoon C, **Liang Y**, Knauer K. Process for sequential acetolysis-autoxidation of plastic streams. USPTO No: 63/383,293, National Renewable Energy Laboratory.
+* Beckham, G, Minjung L, Ciaran L, Cuthbertson A, Hoon C, **Liang Y**, Knauer K. Methods and systems for dye removal from polymer textiles. USPTO No: 63/384,137, National Renewable Energy Laboratory.
