@@ -6,15 +6,23 @@ author_profile: true
 ---
 
 <br>
-<p style="font-size: 20px;"><b>Graduate Student<b></p>
+<p style="font-size: 20px;"><b>Graduate Students<b></p>
 <br>
-<p style="font-size: 20px;"><b>Undergraduate Student<b></p>
+<p style="font-size: 20px;"><b>Undergraduate Students<b></p>
 <br>
 
 
 {% include base_path %}
 
 
-{% for post in site.people %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+  
+<!-- {% include base_path %}
+
+
+{% for post in site.people %}
+  {% include archive-single.html %}
+{% endfor %} -->
