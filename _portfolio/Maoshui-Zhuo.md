@@ -1,21 +1,21 @@
 ---
-title: "Yuxing Cui"
-excerpt: "**1st year Ph.D. student** <br/><img src='/images/YuxingCui.jpg' width='250' height='250'>"
+title: "Maoshui Zhuo"
+excerpt: "**1st year Ph.D. student** <br/><img src='/images/MaoshuiZhuo.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
 **Email:** <br/>
-**cuy@oregonstate.edu**
+**zhuoma@oregonstate.edu**
 
 **Education Background:** <br/>
-**M.S. – Materials Science and Engineering, Lehigh University** <br/>
-**B.S. – Renewable Energy Materials and Device, University of Electronic Science and Technology of China**
+**M.S. – Environmental Engineering, University of Chinese Academy of Sciences** <br/>
+**B.S. – Environmental Engineering, Chang'an University**
 
 **Work Experience:** <br/>
-**Process Engineer, Applied Materials**
+**Determination of Water Quality, Membrane bioreactor**
 
 **Research Interests:** <br/>
-**Wastewater treatment, Membrane processing and Transport phenomena**
+**Waste Recycling, Membrane Fabrication, Membrane Technology**
 
 **Hobbies:** <br/>
-**Soccer, Traveling, Reading, Outdoor Activities**
+**Swimming, Pingpong, Drawing, Card and Chess**
