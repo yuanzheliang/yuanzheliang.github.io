@@ -11,7 +11,7 @@ collection: portfolio
 **A.S. Intelligence studies and Technology**
 
 **Work Experience:** <br/>
-**4 years Activate duty, USAF**
+**4 years Activate duty, USAF** <br/>
 **Research Assistant for renewable methane generation through anerobic digestion**
 
 **Research Interests:** <br/>
