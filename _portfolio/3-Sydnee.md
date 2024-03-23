@@ -1,6 +1,6 @@
 ---
 title: "Sydnee Byres"
-excerpt: "**Undergraduate Chemical Energineering Major** <br/><img src='/images/SydneeByres.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Chemical Energineering Major** <br/><img src='/images/SydneeByres.jpeg' width='250' height='250'>"
 collection: portfolio
 ---
 
