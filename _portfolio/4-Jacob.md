@@ -1,21 +1,21 @@
 ---
-title: "Maoshui Zhuo"
-excerpt: "**1st year Ph.D. student** <br/><img src='/images/MaoshuiZhao.jpg' width='250' height='250'>"
+title: "Jacob Lester"
+excerpt: "**Undergraduate Chemical Engineering** <br/><img src='/images/JacobLester.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
 **Email:** <br/>
-**zhuoma@oregonstate.edu**
+**Lesterj@oregonstate.edu**
 
 **Education Background:** <br/>
-**M.S. – Environmental Engineering, University of Chinese Academy of Sciences** <br/>
-**B.S. – Environmental Engineering, Chang'an University**
+**A.S. Intelligence studies and Technology**
 
 **Work Experience:** <br/>
-**Determination of Water Quality, Membrane bioreactor**
+**4 years Activate duty, USAF**
+**Research Assistant for renewable methane generation through anerobic digestion**
 
 **Research Interests:** <br/>
-**Waste Recycling, Membrane Fabrication, Membrane Technology**
+**Renewable energy, Membrane Technology**
 
 **Hobbies:** <br/>
-**Swimming, Pingpong, Drawing, Card and Chess**
+**Indoor and sand Volleyball**
