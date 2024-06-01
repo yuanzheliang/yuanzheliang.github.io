@@ -1,17 +1,21 @@
 ---
-title: "Natasha Fink"
-excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/NatashaFink.jpg' width='250' height='250'>"
+title: "Brendan Shroyer"
+excerpt: "**Undergraduate Mechanical Engineering Major** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
 **Email:** <br/>
-**finkn@oregonstate.edu**
+**shroyerb@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS Chemical Engineering** <br/>
+**Computer Engineering and Computer Science, Portland State University** <br/>
+**Mechanical Engineering, Oregon State University** <br/>
+
+**Work Experience:** <br/>
+**Technician and Engineering Liaison, Portland Truck Plant, Daimler Truck North America**
 
 **Research Interests:** <br/>
-**Chemistry, clean water access, and renewable energy**
+**Sustainable Engineering, Automation**
 
 **Hobbies:** <br/>
-**long distance running, cooking, and sewing**
+**Model Jet Aircraft, Costume Design, Photography, Performing Arts**
