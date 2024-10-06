@@ -1,21 +1,18 @@
 ---
-title: "Brendan Shroyer"
-excerpt: "**Undergraduate Mechanical Engineering Major** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
+title: "Grace Okoye"
+excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/GraceOkoye.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
 **Email:** <br/>
-**shroyerb@oregonstate.edu**
+**okoyec@oregonstate.edu**
 
 **Education Background:** <br/>
-**Computer Engineering and Computer Science, Portland State University** <br/>
-**Mechanical Engineering, Oregon State University** <br/>
-
-**Work Experience:** <br/>
-**Technician and Engineering Liaison, Portland Truck Plant, Daimler Truck North America**
+**BS Chemical Engineering, Oregon State University** <br/>
+**Minor Global Development Studies, Oregon State University** <br/>
 
 **Research Interests:** <br/>
-**Sustainable Engineering, Automation**
+**Renewable energy, Materials Processing, STEM Education**
 
 **Hobbies:** <br/>
-**Model Jet Aircraft, Costume Design, Photography, Performing Arts**
+**Crochet, Triathlon training, Long Walks/Hikes, Cooking**
