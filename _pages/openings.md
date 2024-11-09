@@ -14,7 +14,7 @@ Ph.D. Candidate Requirements:
 
 * A bachelor’s or master’s degree (obtained or expected) in relevant fields such as Materials Science and Engineering, Polymer Science and Engineering, Environmental Engineering, Chemical Engineering, Chemistry, etc. Candidates with a master’s degree are preferred.
 * Interest in membrane science and membrane processes.
-* Research experience in membrane material synthesis, membrane process operation and modeling, or membrane reactors is preferred.
+* Research experience in membrane material synthesis, electrocatalytic/photocatalytic process, or membrane reactors is preferred.
 * Proficiency in programming (e.g., Python) is an advantage.
 * A positive work and study attitude, strong teamwork skills, and the ability to conduct independent research projects.
 * Excellent scientific writing and communication skills.
