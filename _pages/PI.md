@@ -21,4 +21,4 @@ If you’re interested in learning more, please feel free to reach out to us via
 
 <a href="https://engineering.oregonstate.edu/people/yuanzhe-liang"> Departmental webpage </a>
 
-<a href="https://yuanzheliang.github.io/files/[CV]_Yuanzhe Liang_1024.pdf"> CV Updated October 2023 </a>
+<a href="https://yuanzheliang.github.io/files/CV_liang_1026.pdf"> CV Updated October 2024 </a>
