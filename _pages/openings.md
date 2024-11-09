@@ -29,7 +29,7 @@ What We Offer:
 Application Process: Interested candidates should contact Dr. Yuanzhe Liang by email (yuanzhe.liang@oregonstate.edu) with the subject line “Ph.D. Application--Your Name.” Please include the following documents in a single PDF:
 
 * A cover letter describing your background, research experience, interests, and career goals (one page).
-Your CV.
+* Your CV.
 * Academic transcripts (unofficial copies are acceptable).
 * A scientific writing sample (e.g., a published paper as first author, thesis, or course project report).
 * Contact information for three references (name, institution, and email address).
