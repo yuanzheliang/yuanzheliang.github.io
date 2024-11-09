@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Ph.D. Recruitment Opportunity Fall 2025
-The Liang Research Group in the School of Chemical, Biological, and Environmental Engineering (CBEE) at Oregon State University (https://yuanzheliang.github.io/) is recruiting one fully-funded Ph.D. student for Fall 2025. 
+The Liang's Research Group in the School of Chemical, Biological, and Environmental Engineering (CBEE) at Oregon State University (https://yuanzheliang.github.io/) is recruiting one fully-funded Ph.D. student for Fall 2025. 
 
 Ph.D. Candidate Requirements:
 
