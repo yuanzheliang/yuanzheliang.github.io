@@ -1,21 +1,20 @@
 ---
-title: "Yuxing Cui"
-excerpt: "**1st year Ph.D. student** <br/><img src='/images/YuxingCui.jpg' width='250' height='250'>"
+title: "Diego Felipe García"
+excerpt: "**1st year rotational M.S. student** <br/><img src='/images/DiegoG.jpg' width='250' height='250'>"
 collection: portfolio
 ---
 
 **Email:** <br/>
-**cuy@oregonstate.edu**
+**garcacod@oregonstate.edu**
 
 **Education Background:** <br/>
-**M.S. – Materials Science and Engineering, Lehigh University** <br/>
-**B.S. – Renewable Energy Materials and Device, University of Electronic Science and Technology of China**
+**B.S. – Cum Laude Environmental Engineering, Santo Tomás University, Colombia** <br/>
 
 **Work Experience:** <br/>
-**Process Engineer, Applied Materials**
+**Professional in Environmental Economic Valuation in the Oil & Gas, infrastructure, energy, renewable energy (Solar Power Plants, Wind Farms, and Hydroelectric Power Plants), and mining sectors in Colombia.**
 
 **Research Interests:** <br/>
-**Wastewater treatment, Membrane processing and Transport phenomena**
+**Renewable energy systems, green hydrogen production, energy storage, environmental and business sustainability, environmental impact assessment**
 
 **Hobbies:** <br/>
-**Soccer, Traveling, Reading, Outdoor Activities**
+**Tennis, Traveling**
