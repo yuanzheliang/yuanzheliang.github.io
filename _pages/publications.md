@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Papers
-* DesVeaux, J. S., Uekert, T., Curley, J. B., Choi, H., **Liang, Y.**, Singh, A., Mante, O. D., Beckham, G. T., Jacobsen, A. J., & Knauer, K. M. (2024). Mixed polyester recycling can enable a circular plastic economy with environmental benefits. One Earth, 7(12), 2204–2222.   <a href="https://doi.org/10.1016/j.oneear.2024.11.007"> https://doi.org/10.1016/j.oneear.2024.11.007 </a> | [PDF](https://yuanzheliang.github.io/files/OE2024.pdf)
+* DesVeaux, J. S., Uekert, T., Curley, J. B., Choi, H., **Liang, Y.**, Singh, A., Mante, O. D., Beckham, G. T., Jacobsen, A. J., & Knauer, K. M. (2024). Mixed polyester recycling can enable a circular plastic economy with environmental benefits. One Earth, 7(12), 2204–2222.
+  <a href="https://doi.org/10.1016/j.oneear.2024.11.007"> https://doi.org/10.1016/j.oneear.2024.11.007 </a> | [PDF](https://yuanzheliang.github.io/files/OE2024.pdf)
 * Knauer K, Higginson C, **Liang Y**, Lee M. Circular plastics technologies: depolymerization of polymers into parent monomers. *Physical Sciences Reviews*. 2023 Aug 24(0). 
   <a href="https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html"> https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html </a> | [PDF](https://yuanzheliang.github.io/files/psr2023.pdf)
 * **Liang Y**, Dudchenko AV, Mauter MS. Novel method for accurately estimating membrane transport properties and mass transfer coefficients in reverse osmosis. *Journal of Membrane Science*. 2023 Aug 5;679:121686.
