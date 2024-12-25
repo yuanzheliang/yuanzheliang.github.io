@@ -2,6 +2,7 @@
 title: "Grace Okoye"
 excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/GraceOkoye.jpg' width='250' height='250'>"
 collection: portfolio
+status: "current"
 ---
 
 **Email:** <br/>
