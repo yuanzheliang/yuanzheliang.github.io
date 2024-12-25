@@ -2,6 +2,7 @@
 title: "Natasha Fink"
 excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/NatashaFink.jpg' width='250' height='250'>"
 collection: portfolio
+status: "alumni"
 ---
 
 **Email:** <br/>
