@@ -2,6 +2,7 @@
 title: "Maoshui Zhuo"
 excerpt: "**1st year Ph.D. student** <br/><img src='/images/MaoshuiZhao.jpg' width='250' height='250'>"
 collection: portfolio
+status: "current"
 ---
 
 **Email:** <br/>
