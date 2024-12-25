@@ -2,6 +2,7 @@
 title: "Diego Felipe García"
 excerpt: "**1st year rotational M.S. student** <br/><img src='/images/DiegoG.jpg' width='250' height='250'>"
 collection: portfolio
+status: "current"
 ---
 
 **Email:** <br/>
