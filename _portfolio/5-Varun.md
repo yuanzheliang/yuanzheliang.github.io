@@ -2,6 +2,7 @@
 title: "Varun Ramachandran"
 excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/VarunRamachandran.jpeg' width='250' height='250'>"
 collection: portfolio
+status: "alumni"
 ---
 
 **Email:** <br/>
