@@ -10,7 +10,7 @@ status: "current"
 
 **Education Background:** <br/>
 **Mechanical Engineering, Oregon State University** <br/>
-**Double Minor in Applied Mathematics and Chemistry, Oregon State University** <br/>
+**Double Minor in Applied Mathematics and Chemistry, Oregon State University**
 
 **Research Interests:** <br/>
 **mathematics and physics for understanding how natural systems can be modeled through mathematical principles**
