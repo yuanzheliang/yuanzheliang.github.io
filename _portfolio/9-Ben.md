@@ -1,22 +1,19 @@
 ---
-title: "Brendan Shroyer"
-excerpt: "**Undergraduate Mechanical Engineering Major** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
+title: "Benjamin Gisler"
+excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/BenGisler.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
 **Email:** <br/>
-**shroyerb@oregonstate.edu**
+**gislerbe@oregonstate.edu**
 
 **Education Background:** <br/>
-**Computer Engineering and Computer Science, Portland State University** <br/>
 **Mechanical Engineering, Oregon State University** <br/>
-
-**Work Experience:** <br/>
-**Technician and Engineering Liaison, Portland Truck Plant, Daimler Truck North America**
+**Double Minor in Applied Mathematics and Chemistry, Oregon State University** <br/>
 
 **Research Interests:** <br/>
-**Sustainable Engineering, Automation**
+**mathematics and physics for understanding how natural systems can be modeled through mathematical principles**
 
 **Hobbies:** <br/>
-**Model Jet Aircraft, Costume Design, Photography, Performing Arts**
+**Piano, Guitar, Ukulele, DJing, mixing tracks, playing video games, exploring diverse topics on YouTube**
