@@ -5,6 +5,8 @@ collection: portfolio
 status: "alumni"
 ---
 
+<img src='/images/JacobLester.jpg' width='250' height='250'>
+
 **Email:** <br/>
 **Lesterj@oregonstate.edu**
 
