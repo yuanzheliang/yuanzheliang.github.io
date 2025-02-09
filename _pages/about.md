@@ -29,7 +29,7 @@ We encourage internal and external collaborations with intellectually diverse sc
 
 *i*-MemTec Lab Value:
 ======
-At the *i*-MemTec Lab, we are proud to embrace and prioritize Diversity, Equity, and Inclusion (DEI) as fundamental values that shape our research endeavors. Our lab stands as a dynamic hub of discovery, collaboration, innovation, growth and respect, where passionate researchers come together to tackle complex challenges and make a lasting impact on society.
+At the *i*-MemTec Lab, we foster a collaborative, innovative, and respectful research environment where curiosity and discovery drive our work. Our lab stands as a dynamic hub of discovery, collaboration, innovation, growth, and respect, where passionate researchers come together to tackle complex challenges and make a lasting impact on society. We value diverse perspectives and expertise, maintaining a supportive and professional workspace where all members can contribute, grow, and excel in their scientific endeavors.
 
 Join Our Research Team:
 ======
