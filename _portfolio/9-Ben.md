@@ -5,6 +5,8 @@ collection: portfolio
 status: "current"
 ---
 
+<img src='/images/BenGisler.jpg' width='250' height='250'>
+
 **Email:** <br/>
 **gislerbe@oregonstate.edu**
 
