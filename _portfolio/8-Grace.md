@@ -5,6 +5,8 @@ collection: portfolio
 status: "alumni"
 ---
 
+<img src='/images/GraceOkoye.jpg' width='250' height='250'>
+
 **Email:** <br/>
 **okoyec@oregonstate.edu**
 
