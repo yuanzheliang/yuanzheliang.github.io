@@ -5,6 +5,8 @@ collection: portfolio
 status: "current"
 ---
 
+<img src="/images/YuxingCui.jpg" width="250" height="250" alt="Yuxing Cui">
+
 **Email:** <br/>
 **cuy@oregonstate.edu**
 
