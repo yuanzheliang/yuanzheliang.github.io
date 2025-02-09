@@ -5,6 +5,8 @@ collection: portfolio
 status: "alumni"
 ---
 
+<img src='/images/VarunRamachandran.jpeg' width='250' height='250'>
+
 **Email:** <br/>
 **ramachav@oregonstate.edu**
 
