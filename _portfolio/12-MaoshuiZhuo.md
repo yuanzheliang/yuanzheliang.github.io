@@ -5,6 +5,8 @@ collection: portfolio
 status: "current"
 ---
 
+<img src='/images/MaoshuiZhao.jpg' width='250' height='250'>
+
 **Email:** <br/>
 **zhuoma@oregonstate.edu**
 
