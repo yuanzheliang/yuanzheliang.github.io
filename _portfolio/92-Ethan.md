@@ -1,11 +1,11 @@
 ---
 title: "Ethan Tammar"
-excerpt: "**Undergraduate Nuclear Engineering Major** <br/><img src='/images/EthanTammar.jpg' width='200' height='200'>"
+excerpt: "**Undergraduate Nuclear Engineering Major** <br/><img src='/images/EthanTammar.jpg' width='150' height='150'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/EthanTammar.jpg' width='200' height='200'>
+<img src='/images/EthanTammar.jpg' width='150' height='150'>
 
 **Email:** <br/>
 **tammare@oregonstate.edu**
