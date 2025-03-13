@@ -1,11 +1,11 @@
 ---
 title: "Shu Chen"
-excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/ShuChen.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/ShuChen.jpg' width='180' height='180'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/ShuChen.jpg' width='250' height='250'>
+<img src='/images/ShuChen.jpg' width='180' height='180'>
 
 **Email:** <br/>
 **chens6@oregonstate.edu**
