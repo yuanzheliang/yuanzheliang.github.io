@@ -11,7 +11,7 @@ status: "current"
 **tammare@oregonstate.edu**
 
 **Education Background:** <br/>
-**Nuclear engineering, Oregon State University** <br/>
+**BS, Nuclear engineering, Oregon State University** <br/>
 
 **Research Interests:** <br/>
 **Carbon accounting, climate change solutions**
