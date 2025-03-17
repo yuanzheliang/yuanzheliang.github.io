@@ -12,6 +12,7 @@ status: "alumni"
 
 **Education Background:** <br/>
 **A.S. Intelligence studies and Technology**
+**BS Chemical Engineering** <br/>
 
 **Work Experience:** <br/>
 **4 years Activate duty, USAF** <br/>
