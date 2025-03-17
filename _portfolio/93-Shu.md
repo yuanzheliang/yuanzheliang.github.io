@@ -11,7 +11,7 @@ status: "current"
 **chens6@oregonstate.edu**
 
 **Education Background:** <br/>
-**Chemical Engineering, Oregon State University** <br/>
+**BS, Chemical Engineering, Oregon State University** <br/>
 **Chemistry minor, Oregon State University** <br/>
 
 **Research Interests:** <br/>
