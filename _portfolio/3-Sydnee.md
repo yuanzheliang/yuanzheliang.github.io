@@ -10,6 +10,9 @@ status: "current"
 **Email:** <br/>
 **byress@oregonstate.edu**
 
+**Education Background:** <br/>
+**BS Chemical Engineering** <br/>
+
 **Research Interests:** <br/>
 **Environmental sustainability, Recycling process**
 
