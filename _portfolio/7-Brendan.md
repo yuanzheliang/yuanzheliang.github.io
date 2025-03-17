@@ -12,7 +12,7 @@ status: "alumni"
 
 **Education Background:** <br/>
 **Computer Engineering and Computer Science, Portland State University** <br/>
-**Mechanical Engineering, Oregon State University** <br/>
+**BS Mechanical Engineering, Oregon State University** <br/>
 
 **Work Experience:** <br/>
 **Technician and Engineering Liaison, Portland Truck Plant, Daimler Truck North America**
