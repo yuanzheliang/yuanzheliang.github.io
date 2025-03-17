@@ -11,7 +11,7 @@ status: "current"
 **gislerbe@oregonstate.edu**
 
 **Education Background:** <br/>
-**Chemical Engineering, Oregon State University** <br/>
+**BS, Chemical Engineering, Oregon State University** <br/>
 **Double Minor in Applied Mathematics and Chemistry, Oregon State University**
 
 **Research Interests:** <br/>
