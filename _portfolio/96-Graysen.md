@@ -1,11 +1,11 @@
 ---
 title: "Graysen Terry"
-excerpt: "**Undergraduate Environmental Engineering Major** <br/><img src='/images/GraysenTerry.png' width='250' height='250'>"
+excerpt: "**Undergraduate Environmental Engineering Major** <br/><img src='/images/GraysenTerry.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/GraysenTerry.png' width='250' height='250'>
+<img src='/images/GraysenTerry.jpg' width='250' height='250'>
 
 **Email:** <br/>
 **terrygr@oregonstate.edu**
