@@ -12,10 +12,11 @@ status: "current"
 
 **Education Background:** <br/>
 **BS, Chemical Engineering, Oregon State University** <br/>
+**Minor, Computer Science, Oregon State University** <br/>
 
 
 **Research Interests:** <br/>
-
+**Artificial intelligence for engineering applications** <br/>
 
 **Hobbies:** <br/>
-
+**Reading books, Cooking, Mountain Skiing, Traveling, Listening to Music, Hiking** <br/>
