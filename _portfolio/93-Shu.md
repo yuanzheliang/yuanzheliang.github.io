@@ -1,6 +1,6 @@
 ---
 title: "Shu Chen"
-excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/ShuChen.jpg' width='180' height='180'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/ShuChen.jpg' width='180' height='180'>"
 collection: portfolio
 status: "current"
 ---
