@@ -1,6 +1,6 @@
 ---
 title: "Brendan Shroyer"
-excerpt: "**Undergraduate Mechanical Engineering Major** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
 collection: portfolio
 status: "alumni"
 ---
