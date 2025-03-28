@@ -1,6 +1,6 @@
 ---
 title: "Jacob Lester"
-excerpt: "**Undergraduate Chemical Engineering Major** <br/><img src='/images/JacobLester.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/JacobLester.jpg' width='250' height='250'>"
 collection: portfolio
 status: "alumni"
 ---
