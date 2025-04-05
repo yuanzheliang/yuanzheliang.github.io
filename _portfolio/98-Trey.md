@@ -1,21 +1,21 @@
 ---
-title: "Elliot Trimbur"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/ElliotTrimbur.jpg' width='250' height='250'>"
+title: "Trey Stephens-Cherry"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/TreySC.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/ElliotTrimbur.jpg' width='250' height='250'>
+<img src='/images/TreySC.jpg' width='250' height='250'>
 
 **Email:** <br/>
-**trimbure@oregonstate.edu**
+**steptrey@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Environmental Engineering, Oregon State University** <br/>
-**BS, Minor in Chemistry, Oregon State University** <br/>
+**BS, Bioengineering, Oregon State University** <br/>
+**Double major in Chemistry, Advanced Option, Oregon state University** <br/>
 
 **Research Interests:** <br/>
-**Renewable Energy, Membrane Technology, Sustainability** <br/>
+**Chemistry, Water Treatment, Sustainability, Biological Systems** <br/>
 
 **Hobbies:** <br/>
-**Ultimate Frisbee, Rock Climbing, Hiking** <br/>
+**Reading, Running, Swimming, Cooking** <br/>
