@@ -1,20 +1,20 @@
 ---
-title: "Sydnee Byres"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/SydneeByres.jpeg' width='250' height='250'>"
+title: "Ethan Tichenor"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/EthanTichenor.jpeg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/SydneeByres.jpeg' width='250' height='250'>
+<img src='/images/EthanTichenor.jpeg' width='250' height='250'>
 
 **Email:** <br/>
-**byress@oregonstate.edu**
+**tichenoe@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS Chemical Engineering** <br/>
+**Honors BS Chemical Engineering** <br/>
 
 **Research Interests:** <br/>
-**Environmental sustainability, Recycling process**
+**Energetics, Polymer Engineering, Plastic Materials, Green Materials, Sustainability**
 
 **Hobbies:** <br/>
-**Weightlifting, reading, and hiking**
+**Hiking, Chess, Video games, Combat sports**
