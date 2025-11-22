@@ -2,7 +2,7 @@
 title: "Brendan Shroyer"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/BrendanShroyer.jpg' width='250' height='250'>"
 collection: portfolio
-status: "current"
+status: "alumni"
 ---
 
 <img src='/images/BrendanShroyer.jpg' width='250' height='250'>
