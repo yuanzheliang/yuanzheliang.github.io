@@ -2,7 +2,7 @@
 title: "Shu Chen"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/ShuChen.jpg' width='180' height='180'>"
 collection: portfolio
-status: "current"
+status: "alumni"
 ---
 
 <img src='/images/ShuChen.jpg' width='180' height='180'>
