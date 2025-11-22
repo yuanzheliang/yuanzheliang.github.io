@@ -2,7 +2,7 @@
 title: "Ethan Tammar"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/EthanTammar.jpg' width='180' height='180'>"
 collection: portfolio
-status: "current"
+status: "alumni"
 ---
 
 <img src='/images/EthanTammar.jpg' width='180' height='180'>
