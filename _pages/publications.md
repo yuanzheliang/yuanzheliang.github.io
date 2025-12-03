@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## Papers
-* Lee, M., **Liang, Y.**, Cuthbertson, A.A., ..., Beckham, G. T., & Knauer, K. M. Extraction, purification, and reuse of dyes from coloured polyester textiles. Nature Sustainability (2025).
+* Lee, M., **Liang, Y.**, Cuthbertson, A.A., ..., Beckham, G. T., & Knauer, K. M. Extraction, purification, and reuse of dyes from coloured polyester textiles. *Nature Sustainability* (2025).
 <a href="https://doi.org/10.1038/s41893-025-01686-7"> https://doi.org/10.1038/s41893-025-01686-7 </a> | [PDF](https://yuanzheliang.github.io/files/NS2025.pdf)
-* Curley, J.B., **Liang, Y.**, DesVeaux, J.S., Choi, H., Clarke, R.W., Maurya, A.K., Michener, W.E., Stanley, L.M., Wu, Y., Hesse, S.A. and Baer, A.L., 2025. Closed-loop recycling of mixed polyesters via catalytic methanolysis and monomer separations. Nature Chemical Engineering, pp.1-13.
+* Curley, J.B., **Liang, Y.**, DesVeaux, J.S., Choi, H., Clarke, R.W., Maurya, A.K., Michener, W.E., Stanley, L.M., Wu, Y., Hesse, S.A. and Baer, A.L., ..., & Knauer, K. M. 2025. Closed-loop recycling of mixed polyesters via catalytic methanolysis and monomer separations. *Nature Chemical Engineering*, pp.1-13.
   <a href="https://www.nature.com/articles/s44286-025-00275-x"> https://www.nature.com/articles/s44286-025-00275-x </a> | [PDF](https://yuanzheliang.github.io/files/NCE2025.pdf)
-* DesVeaux, J. S., Uekert, T., Curley, J. B., Choi, H., **Liang, Y.**, Singh, A., Mante, O. D., Beckham, G. T., Jacobsen, A. J., & Knauer, K. M. (2024). Mixed polyester recycling can enable a circular plastic economy with environmental benefits. One Earth, 7(12), 2204–2222.
+* DesVeaux, J. S., Uekert, T., Curley, J. B., Choi, H., **Liang, Y.**, Singh, A., Mante, O. D., Beckham, G. T., Jacobsen, A. J., & Knauer, K. M. (2024). Mixed polyester recycling can enable a circular plastic economy with environmental benefits. *One Earth*, 7(12), 2204–2222.
   <a href="https://doi.org/10.1016/j.oneear.2024.11.007"> https://doi.org/10.1016/j.oneear.2024.11.007 </a> | [PDF](https://yuanzheliang.github.io/files/OE2024.pdf)
 * Knauer K, Higginson C, **Liang Y**, Lee M. Circular plastics technologies: depolymerization of polymers into parent monomers. *Physical Sciences Reviews*. 2023 Aug 24(0). 
   <a href="https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html"> https://www.degruyter.com/document/doi/10.1515/psr-2023-0014/html </a> | [PDF](https://yuanzheliang.github.io/files/psr2023.pdf)
