@@ -42,6 +42,6 @@ author_profile: true
   <a href="https://doi.org/10.1039/C4TB00737A"> https://doi.org/10.1039/C4TB00737A </a> | [PDF](https://yuanzheliang.github.io/files/jmcb2014.pdf)
 
 ## Patents
-* DesVeaus J, **Liang Y**, Choi H, Knauer K, Beckham G. Downstream process for separating a mixture of depolymerized polyester products produced from methanolysis. USPTO No. 63/512,804, National Renewable Energy Laboratory.
-* Beckham, G, Minjung L, Ciaran L, Cuthbertson A, Hoon C, **Liang Y**, Knauer K. Process for sequential acetolysis-autoxidation of plastic streams. USPTO No: 63/383,293, National Renewable Energy Laboratory.
-* Beckham, G, Minjung L, Ciaran L, Cuthbertson A, Hoon C, **Liang Y**, Knauer K. Methods and systems for dye removal from polymer textiles. USPTO No: 63/384,137, National Renewable Energy Laboratory.
+* **Liang Y**, DesVeaus J, Choi H, ..., Knauer K, Beckham G. Downstream process for separating a mixture of depolymerized polyester products produced from methanolysis. WO 2025015059 A1, Current Assignee: Alliance for Sustainable Energy LLC Amazon com Services LLC. [PDF](https://patentimages.storage.googleapis.com/d1/79/d1/f3880410ed7ac2/WO2025015059A1.pdf)
+* Beckham, G, Minjung L, Ciaran L, Cuthbertson A, Hoon C, **Liang Y**, ..., Knauer K. Process for sequential acetolysis-autoxidation of plastic streams. USPTO No: 63/383,293, National Renewable Energy Laboratory.
+* Beckham, G, Minjung L, Ciaran L, ..., Cuthbertson A, Hoon C, **Liang Y**, Knauer K. Methods and systems for dye removal from polymer textiles. WO 2024108081 A1, Current Assignee Alliance for Sustainable Energy LLC Patagonia Inc. [PDF](https://patentimages.storage.googleapis.com/fa/0e/89/4c5ff09345e046/WO2024108081A1.pdf)
