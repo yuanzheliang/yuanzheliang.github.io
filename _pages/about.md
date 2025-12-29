@@ -23,7 +23,7 @@ The *i*-MemTec Lab seeks to educate the next generation of materials scientists 
 ======
 We specialize in combining interfacial engineering, process modeling and data science to identify and catalyze transformative solutions, technologies, and practices that promote sustainability across multiple domains, such as water, energy, agriculture, waste management, and resource utilization.
 
-We recruit lab members that embody diversity, self-motivation, a sense of adventure, persistence, enthusiasm, collaboration, supportiveness, and a love for fun. Each member is valued, and we are committed to nurturing their growth by designing Individual Development Plans (IDPs). IDPs serve as roadmaps to explore and define their training goals, professional development needs, and career objectives. We provide mentoring, guidance, and resources, in both scientific and career development, to support their goals.
+We recruit lab members that embody broad perspectives, self-motivation, a sense of adventure, persistence, enthusiasm, collaboration, supportiveness, and a love for fun. Each member is valued, and we are committed to nurturing their growth by designing Individual Development Plans (IDPs). IDPs serve as roadmaps to explore and define their training goals, professional development needs, and career objectives. We provide mentoring, guidance, and resources, in both scientific and career development, to support their goals.
 
 We encourage internal and external collaborations with intellectually diverse scholars and enhance the impact of our research accomplishments.
 
