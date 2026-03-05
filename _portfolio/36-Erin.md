@@ -1,21 +1,20 @@
 ---
-title: "Benjamin Gisler"
+title: "Erin Mijares"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/BenGisler.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/BenGisler.jpg' width='250' height='250'>
+<img src='/images/ErinMijares.jpg' width='250' height='250'>
 
 **Email:** <br/>
-**gislerbe@oregonstate.edu**
+**mijarese@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Chemical Engineering, Oregon State University** <br/>
-**Double Minor in Applied Mathematics and Chemistry, Oregon State University**
+**BS Biological Engineering** <br/>
 
 **Research Interests:** <br/>
-**mathematics and physics for understanding how natural systems can be modeled through mathematical principles**
+**Electrochemistry, surface chemistry, energetics**
 
 **Hobbies:** <br/>
-**Piano, Guitar, Ukulele, DJing, mixing tracks, playing video games, exploring diverse topics on YouTube**
+**Hiking, snowboarding, backpacking, and card games**
