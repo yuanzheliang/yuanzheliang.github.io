@@ -8,37 +8,55 @@ author_profile: true
 {% include base_path %}
 
 <h2>Current Students</h2>
-<ul>
+<ul class="people-grid">
   {% for post in site.portfolio %}
     {% if post.status == "current" %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
+      <li class="people-card">
+        <a class="people-card__link" href="{{ post.url | relative_url }}">
+          {% if post.header and post.header.teaser %}
+            <img
+              class="people-card__img"
+              src="{{ post.header.teaser | relative_url }}"
+              alt="{{ post.title }}"
+              loading="lazy"
+            />
+          {% endif %}
+
+          <div class="people-card__body">
+            <div class="people-card__name">{{ post.title }}</div>
+            <div class="people-card__meta">
+              {{ post.excerpt | markdownify }}
+            </div>
+          </div>
         </a>
-        <div>{{ post.excerpt | markdownify }}</div>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
 
 <h2>Alumni</h2>
-<ul>
+<ul class="people-grid">
   {% for post in site.portfolio %}
     {% if post.status == "alumni" %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
+      <li class="people-card">
+        <a class="people-card__link" href="{{ post.url | relative_url }}">
+          {% if post.header and post.header.teaser %}
+            <img
+              class="people-card__img"
+              src="{{ post.header.teaser | relative_url }}"
+              alt="{{ post.title }}"
+              loading="lazy"
+            />
+          {% endif %}
+
+          <div class="people-card__body">
+            <div class="people-card__name">{{ post.title }}</div>
+            <div class="people-card__meta">
+              {{ post.excerpt | markdownify }}
+            </div>
+          </div>
         </a>
-        <div>{{ post.excerpt | markdownify }}</div>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
-
-  
-<!-- {% include base_path %}
-
-
-{% for post in site.people %}
-  {% include archive-single.html %}
-{% endfor %} -->
