@@ -5,7 +5,7 @@ collection: portfolio
 status: "current"
 ---
 
-<img src='/images/RoryMacDougall.jpg' width='250' height='250'>
+<img src='/images/RoryMacdougall.jpg' width='250' height='250'>
 
 **Email:** <br/>
 **Macdouro@oregonstate.edu**
