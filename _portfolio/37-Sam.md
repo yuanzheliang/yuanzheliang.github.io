@@ -1,11 +1,11 @@
 ---
 title: "Sam Valentine Bissell"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/SamBissell.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/SamBissel.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/SamBissell.jpg' width='250' height='250'>
+<img src='/images/SamBissel.jpg' width='250' height='250'>
 
 **Email:** <br/>
 **bisselsa@oregonstate.edu**
