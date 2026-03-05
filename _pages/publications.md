@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Papers
+* Zhuo, M., Byres, S., **__Liang Y<sup>\*</sup>__**. Environmental and Economic Benefits of Biomass-to-Hydrogen Systems through Integrated Catalytic Steam Reforming of Pyrolysis Bio-Oil and Co-Product Valorization. *Energy Conversion and Management* (2026).
+<a href="https://doi.org/10.1016/j.enconman.2026.121314"> https://doi.org/10.1016/j.enconman.2026.121314 </a> | [PDF](https://authors.elsevier.com/a/1mjGqin8VvisN)
 * Lee, M., **Liang, Y.**, Cuthbertson, A.A., ..., Beckham, G. T., & Knauer, K. M. Extraction, purification, and reuse of dyes from coloured polyester textiles. *Nature Sustainability* (2025).
 <a href="https://doi.org/10.1038/s41893-025-01686-7"> https://doi.org/10.1038/s41893-025-01686-7 </a> | [PDF](https://yuanzheliang.github.io/files/NS2025.pdf)
 * Curley, J.B., **Liang, Y.**, DesVeaux, J.S., Choi, H., Clarke, R.W., Maurya, A.K., Michener, W.E., Stanley, L.M., Wu, Y., Hesse, S.A. and Baer, A.L., ..., & Knauer, K. M. 2025. Closed-loop recycling of mixed polyesters via catalytic methanolysis and monomer separations. *Nature Chemical Engineering*, pp.1-13.
