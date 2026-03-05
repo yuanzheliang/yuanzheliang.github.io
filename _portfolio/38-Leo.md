@@ -1,21 +1,21 @@
 ---
-title: "Benjamin Gisler"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/BenGisler.jpg' width='250' height='250'>"
+title: "Leo Edwards"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/LeoEdwards.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/BenGisler.jpg' width='250' height='250'>
+<img src='/images/LeoEdwards.jpg' width='250' height='250'>
 
 **Email:** <br/>
-**gislerbe@oregonstate.edu**
+**edwardle@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Chemical Engineering, Oregon State University** <br/>
-**Double Minor in Applied Mathematics and Chemistry, Oregon State University**
+**BS, Mechanical Engineering (Energy and Fluid Systems), Oregon State University** <br/>
+**Minor in Materials Science, Oregon State University**
 
 **Research Interests:** <br/>
-**mathematics and physics for understanding how natural systems can be modeled through mathematical principles**
+**Renewable Energy (Geothermal), Sustainable Engineering**
 
 **Hobbies:** <br/>
-**Piano, Guitar, Ukulele, DJing, mixing tracks, playing video games, exploring diverse topics on YouTube**
+**Classical Piano, Hiking, Rock Climbing**
