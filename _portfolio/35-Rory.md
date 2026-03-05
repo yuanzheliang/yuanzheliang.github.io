@@ -1,21 +1,21 @@
 ---
-title: "Benjamin Gisler"
+title: "Rory MacDougall"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/BenGisler.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/BenGisler.jpg' width='250' height='250'>
+<img src='/images/RoryMacDougall.jpg' width='250' height='250'>
 
 **Email:** <br/>
-**gislerbe@oregonstate.edu**
+**Macdouro@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Chemical Engineering, Oregon State University** <br/>
-**Double Minor in Applied Mathematics and Chemistry, Oregon State University**
+**HBS Physics, Oregon State University** <br/>
+**Minor in Mathematics, Oregon State University**
 
 **Research Interests:** <br/>
-**mathematics and physics for understanding how natural systems can be modeled through mathematical principles**
+**Li/Mg separation, nanofiltration membranes, two dimensional materials**
 
 **Hobbies:** <br/>
-**Piano, Guitar, Ukulele, DJing, mixing tracks, playing video games, exploring diverse topics on YouTube**
+**Woodworking, Wrestling, Biking, Video games**
