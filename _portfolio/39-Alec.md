@@ -1,11 +1,11 @@
 ---
 title: "Alec Winters"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/AlecWinters.jpg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/AlecWinters.jpeg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/AlecWinters.jpg' width='250' height='250'>
+<img src='/images/AlecWinters.jpeg' width='250' height='250'>
 
 **Email:** <br/>
 **wintalec@oregonstate.edu**
