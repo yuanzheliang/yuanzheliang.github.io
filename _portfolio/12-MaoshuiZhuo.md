@@ -1,6 +1,6 @@
 ---
 title: "Maoshui Zhuo"
-excerpt: "**2nd year Ph.D. student** <br/><img src='/images/MaoshuiZhao.jpg' width='250' height='250'>"
+excerpt: "**3rd year Ph.D. student** <br/><img src='/images/MaoshuiZhao.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
