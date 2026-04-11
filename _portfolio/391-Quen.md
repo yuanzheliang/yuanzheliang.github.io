@@ -1,6 +1,6 @@
 ---
 title: "Ouen Leip"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/AlecWinters.jpeg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/Quen.jpeg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
