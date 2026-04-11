@@ -1,20 +1,20 @@
 ---
-title: "Alec Winters"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/AlecWinters.jpeg' width='250' height='250'>"
+title: "Evan Burke"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/Evan.jpg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/AlecWinters.jpeg' width='250' height='250'>
+<img src='/images/Evan.jpg' width='250' height='250'>
 
 **Email:** <br/>
-**wintalec@oregonstate.edu**
+**burkeev@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Bioengineering Engineering, Oregon State University** <br/>
+**Honors BS, Bioengineering, Oregon State University** <br/>
 
 **Research Interests:** <br/>
-**Medical Device Development, Molecular Engineering , Biomechanics, Environmental & Industrial Biotechnology**
+**Polymer Engineering, Sustainability, and Prosthetics**
 
 **Hobbies:** <br/>
-**Soccer, Running, Cooking**
+**Snowboarding, Basketball, and Weight Training**
