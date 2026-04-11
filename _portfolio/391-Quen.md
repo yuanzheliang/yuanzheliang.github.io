@@ -1,20 +1,20 @@
 ---
-title: "Alec Winters"
+title: "Ouen Leip"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/AlecWinters.jpeg' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/AlecWinters.jpeg' width='250' height='250'>
+<img src='/images/Quen.jpeg' width='250' height='250'>
 
 **Email:** <br/>
-**wintalec@oregonstate.edu**
+**leipo@oregonstate.edu**
 
 **Education Background:** <br/>
-**BS, Bioengineering Engineering, Oregon State University** <br/>
+**Honors BS, Chemical Engineering, Oregon State University** <br/>
 
 **Research Interests:** <br/>
-**Medical Device Development, Molecular Engineering , Biomechanics, Environmental & Industrial Biotechnology**
+**Nano-structures, Materials, Electro-Chemistry, Energy Storage**
 
 **Hobbies:** <br/>
-**Soccer, Running, Cooking**
+**Gym, Crafts, Video Games, Reading, Interactive Learning, and music**
