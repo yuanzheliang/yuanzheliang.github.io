@@ -2,7 +2,7 @@
 title: "Sydnee Byres"
 excerpt: "**Undergraduate Researcher** <br/><img src='/images/SydneeByres.jpeg' width='250' height='250'>"
 collection: portfolio
-status: "current"
+status: "alumni"
 ---
 
 <img src='/images/SydneeByres.jpeg' width='250' height='250'>
