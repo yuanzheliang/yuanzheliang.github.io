@@ -1,11 +1,11 @@
 ---
 title: "Nina Mennella"
-excerpt: "**Undergraduate Researcher** <br/><img src='/images/NinaMennella.jpeg' width='250' height='250'>"
+excerpt: "**Undergraduate Researcher** <br/><img src='/images/NinaMennella.JPEG' width='250' height='250'>"
 collection: portfolio
 status: "current"
 ---
 
-<img src='/images/NinaMennella.jpeg' width='250' height='250'>
+<img src='/images/NinaMennella.JPEG' width='250' height='250'>
 
 **Email:** <br/>
 **mennelln@oregonstate.edu**
